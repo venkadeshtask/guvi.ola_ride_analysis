@@ -5,7 +5,7 @@ This project analyzes **Ola ride data** to uncover key insights about booking tr
 
 ## power bi -https://dsenggac-my.sharepoint.com/:u:/g/personal/810421104184_dsengg_ac_in/EeJnbKxEjodBv_Bl7TIFeXkBcInwCAPp5xvIh8sk2M-JeA?e=uY9Ejf
 
-## streamlit - https://venkadeshtask-ola-ride-analysis.streamlit.app
+## streamlit - https://guviolarideanalysis-55t7dhmbwprmpuncdyudnf.streamlit.app/
 
 ## 🛠️ Technologies Used  
 - **SQL (MySQL Workbench)** – Data extraction, and transformation  
