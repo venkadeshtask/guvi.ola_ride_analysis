@@ -3,7 +3,7 @@
 ## 📌 Project Overview  
 This project analyzes **Ola ride data** to uncover key insights about booking trends, ride cancellations, payment methods, and customer behavior. Using **SQL (MySQL Workbench)**, we performed data cleaning, aggregation, and trend analysis to provide business insights.  
 
-## power bi -ola dashboard
+## power bi -https://dsenggac-my.sharepoint.com/:u:/g/personal/810421104184_dsengg_ac_in/EeJnbKxEjodBv_Bl7TIFeXkBcInwCAPp5xvIh8sk2M-JeA?e=uY9Ejf
 
 
 ## 🛠️ Technologies Used  
